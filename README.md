@@ -39,6 +39,7 @@ They are software used to simulate a system in a computer environment. For examp
 It is the software that manages the electronic structure of the computer. Compilers, communication programs, operating systems are system software.For example, a text processing program is also a system software. They perform lower level processing than application programs.
 
 Evaluation Criteria of Programming Languages
+
 The sources mention the existence of approximately 1000 - 1500 programming languages currently in use.
 Why are there so many programming languages?
 Why are new programming languages still being designed although there are so many programming languages?
@@ -47,6 +48,7 @@ What qualifiers can be used if it is necessary to define a programming language?
 In order to answer these questions, there should be criteria that allow for evaluation. These criteria are briefly analyzed below:
 
 Programming Language Level
+
 The level of a programming language is the measure of the proximity of that programming language to human perception or a machine. The closer a programming language is to human perception, the higher(higer level) it means. Again, the closer a programming language is to the electronic structure and operating style of the computer, the lower level it means.There is an "instruction set" recognized by the computer's processor. The processor can only run commands within its instruction set. The text written in the programming language is converted into commands in the instruction set of the computer's processor at the end of some processes.Working with high-level languages is easy for the programmer, it does not require a good knowledge of algorithms. Only what to do in these languages is notified to the program, but how will not be notified. In general, the higher the level of the programming language, the easier it is to learn the language and write programs in the language. Machine language is the natural language of the computer, it depends on the hardware design of the computer. With the development of computers, machine languages were the first languages used to make them work. That is why machine languages are also called first generation languages.There are two main problems encountered in using machine language in programs. Codes written in machine language are commands given directly to the machine's processor and hardware parts.
 
 
