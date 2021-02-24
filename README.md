@@ -65,7 +65,49 @@ Low-level programming languages: Symbolic machine language (Assembly language).
 
 Machine language: The lowest level programming language. Pure machine language consists entirely of 1s and 0s.
 
+Legibility
 
+Readability is a term that means the source code can be perceived quickly and well. When it comes to the readability of the source code, the responsibility lies largely on the programmer who wrote the program. However, as in productivity, some of the languages have structures and tools that improve readability, so this feature depends on the design of the programming language to some extent. The best program code is not "the most cleverly written code that nobody can understand", as it might seem.In many cases, good programmers don't want to sacrifice readability for anything. Because a readable program allows for updating even after years due to its easy perception feature. Readability becomes even more important in large-scale projects where many programmers work on common codes. Readability in C is one of the most emphasized concepts. 
+
+Portability
+
+Portability means that the source code written for one system can be compiled correctly and executed correctly when taken to another system. Portability also means standardization. They are standardized by programming languages (ISO International Standard Organization) and ANSI (American National Standard Institute). C Language, whose standards were first created in 1989, is a more portable programming language than other programming languages. 
+
+Productivity
+
+Efficiency is the ability of a program to run fast and use less memory. The speed at which the program runs and the amount of memory it uses depends on many factors. Undoubtedly, the algorithm used also has an effect on the speed and memory used. The computer on which the program is run naturally has an effect on speed. Efficiency can be regarded as a criterion of the memory space and working speed of a program written in a programming language. It can be said that the design of the programming language used is also effective on efficiency, leaving other factors that may play a role in productivity.From this point of view, C is a productive language.
+
+Usage Area
+
+Some languages are designed for a specific application area. There are programming languages designed and used for system programming, artificial intelligence applications, simulation applications, database inquiries, and game programs. Some languages have a wider usage area. For example, a language designed for use in database queries can also be used in engineering applications. Although C language was born as a system programming language, it became a general purpose language in a short time due to its strong structure. Whereas PASCAL, BASIC are much more general purpose languages. C is a language whose main application is "system programming". However, programs were written in C language for almost all application areas.
+
+Classification According to Application Areas
+
+We can also group programming languages according to their application areas:
+
+1. Scientific and engineering application languages:
+Pascal, C, FORTRAN.
+C Programming language is used extensively in academic studies at universities.
+
+2. Database languages:
+XBASE, (Foxpro, Dbase, CA-Clipper), Oracle Forms, Visual Foxpro.
+
+3. General purpose programming languages:
+Pascal, C, Basic.
+
+4. Artificial intelligence languages:
+Prolog, Lisp.
+
+5. Simulation languages:
+GPSS, Simula 67
+
+6. Macro Languages: (Scripting languages)
+awk, Perl, Python, Tcl, JavaScript.
+
+7. System programming languages:
+Symbolic machine languages, BCPL, C, C ++, occam.
+
+Today, we can say that almost all system software is written in C language.
 
 
 
