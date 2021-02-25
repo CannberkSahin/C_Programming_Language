@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614241409 source:c:\users\canberk\desktop\absolute_value_function(abs)\main.c
+	<stdio.h>
+	<stdlib.h>
+
