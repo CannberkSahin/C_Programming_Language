@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614345724 source:c:\users\canberk\desktop\create_ascii_table_ctype_lib\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
