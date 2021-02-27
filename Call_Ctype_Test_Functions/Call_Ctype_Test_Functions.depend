@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614416975 source:c:\users\canberk\desktop\call_ctype_test_functions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
