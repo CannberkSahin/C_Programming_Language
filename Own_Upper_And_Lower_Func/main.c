@@ -29,7 +29,7 @@ int my_second_toupper(int c)
 	return c >= 'a' && c <= 'z' ? c - 'a' + 'A' : c;
 }
 
-/*Write own toupper function*/
+/*Write own tolower function*/
 //First way
 int my_tolower(int c)
 {
