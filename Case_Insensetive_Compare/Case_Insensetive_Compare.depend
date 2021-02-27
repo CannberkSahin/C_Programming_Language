@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614419988 source:c:\users\canberk\desktop\case_insensetive_compare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
