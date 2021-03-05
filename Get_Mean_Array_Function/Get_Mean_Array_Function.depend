@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614958401 source:c:\users\canberk\desktop\get_mean_array_function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
