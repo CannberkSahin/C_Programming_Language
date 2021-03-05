@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614933380 source:c:\users\canberk\desktop\obfuscation_with_pointer_arithmetic\main.c
+	<stdio.h>
+	<stdlib.h>
+
