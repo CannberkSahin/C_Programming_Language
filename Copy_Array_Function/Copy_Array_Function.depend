@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614964569 source:c:\users\canberk\desktop\copy_array_function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
