@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614953350 source:c:\users\canberk\desktop\const_pointer_const_type\main.c
+	<stdio.h>
+	<stdlib.h>
+
