@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614957962 source:c:\users\canberk\desktop\sum_array_function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
