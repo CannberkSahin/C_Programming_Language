@@ -43,6 +43,7 @@ void display_array(const int *p, size_t size)
         //++p;
     }
 }
+
 int main()
 {
     int a[SIZE];
