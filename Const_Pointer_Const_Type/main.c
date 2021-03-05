@@ -9,6 +9,6 @@ int main()
     const int *const p = &x; //Object value cannot be changed.
     //Address of the object cannot be changed.
 
-    //*p = 56; //Syntax Error.
-//    p = &y;  //Syntax Error
+    *p = 56; //Syntax Error.
+    p = &y;  //Syntax Error
 }
