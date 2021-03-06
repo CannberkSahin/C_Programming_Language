@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1615024667 source:c:\users\canberk\desktop\get_array_min_max_function\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mutility.h"
+
+1615024070 c:\users\canberk\desktop\get_array_min_max_function\mutility.h
+	<stddef.h>
+
+1615024065 source:c:\users\canberk\desktop\get_array_min_max_function\mutility.c
+	"mutility.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
