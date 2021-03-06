@@ -1,6 +1,6 @@
 /****************************************************************************************
 ** Company :                                                                            *
-** Engineer: CANBERK ÞAHÝN                                                              *
+** Engineer: CANBERK SAHIN                                                              *
                                                                                         *
 ** Create Date: 06.03.2021                                                              *
 ** Design Name:                                                                         *
