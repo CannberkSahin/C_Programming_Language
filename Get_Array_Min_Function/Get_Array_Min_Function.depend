@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1615022924 source:c:\users\canberk\desktop\get_array_min_function\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mutility.h"
+
+1615022492 source:c:\users\canberk\desktop\get_array_min_function\mutility.c
+	"mutility.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1615022330 c:\users\canberk\desktop\get_array_min_function\mutility.h
+	<stddef.h>
+
