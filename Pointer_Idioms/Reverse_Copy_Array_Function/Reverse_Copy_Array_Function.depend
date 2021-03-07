@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1615029087 source:c:\users\canberk\desktop\pointer_idioms\reverse_copy_array_function\mutility.c
+	"mutility.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1615028993 c:\users\canberk\desktop\pointer_idioms\reverse_copy_array_function\mutility.h
+	<stddef.h>
+
+1615108277 source:c:\users\canberk\desktop\pointer_idioms\reverse_copy_array_function\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mutility.h"
+
