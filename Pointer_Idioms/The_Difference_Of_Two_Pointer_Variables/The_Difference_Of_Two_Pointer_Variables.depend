@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1615029087 source:c:\users\canberk\desktop\pointer_idioms\the_difference_of_two_pointer_variables\mutility.c
+	"mutility.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1615028993 c:\users\canberk\desktop\pointer_idioms\the_difference_of_two_pointer_variables\mutility.h
+	<stddef.h>
+
+1615110260 source:c:\users\canberk\desktop\pointer_idioms\the_difference_of_two_pointer_variables\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mutility.h"
+
