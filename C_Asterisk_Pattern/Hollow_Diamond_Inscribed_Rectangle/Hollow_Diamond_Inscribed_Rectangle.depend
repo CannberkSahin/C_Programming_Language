@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615126953 source:c:\users\canberk\desktop\c_pattern_design\hollow_diamond_inscribed_rectangle\main.c
+	<stdio.h>
+	<stdlib.h>
+

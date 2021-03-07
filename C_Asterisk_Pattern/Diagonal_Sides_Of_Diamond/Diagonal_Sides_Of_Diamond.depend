@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615136189 source:c:\users\canberk\desktop\diagonal_sides_of_diamond\main.c
+	<stdio.h>
+	<stdlib.h>
+

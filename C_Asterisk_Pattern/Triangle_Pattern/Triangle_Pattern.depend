@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615137495 source:c:\users\canberk\desktop\triangle_pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

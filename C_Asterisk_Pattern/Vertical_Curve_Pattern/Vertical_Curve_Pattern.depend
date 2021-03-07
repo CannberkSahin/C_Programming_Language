@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615137193 source:c:\users\canberk\desktop\vertical_curve_pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
