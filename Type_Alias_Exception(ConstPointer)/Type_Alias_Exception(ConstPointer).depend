@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615113779 source:c:\users\canberk\desktop\type_alias_exception(constpointer)\main.c
+	<stdio.h>
+	<stdlib.h>
+
