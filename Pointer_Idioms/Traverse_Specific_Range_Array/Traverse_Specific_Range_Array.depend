@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1615029087 source:c:\users\canberk\desktop\pointer_idioms\traverse_specific_range_array\mutility.c
+	"mutility.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1615028993 c:\users\canberk\desktop\pointer_idioms\traverse_specific_range_array\mutility.h
+	<stddef.h>
+
+1615112185 source:c:\users\canberk\desktop\pointer_idioms\traverse_specific_range_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mutility.h"
+
