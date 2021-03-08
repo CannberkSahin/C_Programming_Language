@@ -27,5 +27,8 @@ int main()
     set_random_array(a, SIZE);
     display_array(a, SIZE);
     pmax = get_array_max(a, SIZE);
+    printf("First element to max element display on the screen\n");
     display_array(a, pmax - a + 1); //First element to max element
+    printf("Max element to end element display on the screen\n");
+    display_array(pmax, SIZE - (pmax - a)); //Max element to end element
 }
