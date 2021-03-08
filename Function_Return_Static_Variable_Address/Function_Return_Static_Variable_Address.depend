@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1615029087 source:c:\users\canberk\desktop\function_return_static_variable_address\mutility.c
+	"mutility.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1615028993 c:\users\canberk\desktop\function_return_static_variable_address\mutility.h
+	<stddef.h>
+
