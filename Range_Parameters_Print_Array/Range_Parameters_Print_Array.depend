@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615197337 source:c:\users\canberk\desktop\range_parameters_print_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
