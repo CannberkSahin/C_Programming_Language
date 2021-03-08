@@ -29,4 +29,6 @@ int main()
     p2 = get_random_day();
     p3 = get_random_day();
     p4 = get_random_day();
+
+    printf("%s %s %s %s\n",p1, p2, p3, p4);
 }
