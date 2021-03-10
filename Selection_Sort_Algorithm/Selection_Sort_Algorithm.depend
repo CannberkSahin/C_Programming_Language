@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1615383557 source:c:\users\canberk\desktop\selection_sort_algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mutility.h"
+
+1615028993 c:\users\canberk\desktop\selection_sort_algorithm\mutility.h
+	<stddef.h>
+
+1615029087 source:c:\users\canberk\desktop\selection_sort_algorithm\mutility.c
+	"mutility.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
