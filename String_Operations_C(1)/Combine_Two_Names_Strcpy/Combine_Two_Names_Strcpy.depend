@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615644576 source:c:\users\canberk\desktop\combine_two_names_strcpy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

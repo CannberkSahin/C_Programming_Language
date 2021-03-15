@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615659198 source:c:\users\canberk\desktop\string_operations_c\combine_3_name_strcat(ub)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

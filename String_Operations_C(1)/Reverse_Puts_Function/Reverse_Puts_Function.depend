@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615399493 source:c:\users\canberk\desktop\string_operations_c\reverse_puts_function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

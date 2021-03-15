@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615798953 source:c:\users\canberk\desktop\is_at_end_function(interview)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
