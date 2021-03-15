@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615404039 source:c:\users\canberk\desktop\string_operations_c\strchr_function\main.c
+	<stdio.h>
+	<stdlib.h>
+

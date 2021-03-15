@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615403009 source:c:\users\canberk\desktop\string_operations_c\strlen_function\main.c
+	<stdio.h>
+	<stdlib.h>
+

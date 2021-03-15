@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615816241 source:c:\users\canberk\desktop\strpbrk_function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615814608 source:c:\users\canberk\desktop\strftime_function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
