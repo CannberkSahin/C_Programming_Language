@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615819177 source:c:\users\canberk\desktop\get_day_str_function\main.c
+	<stdio.h>
+	<stdlib.h>
+
