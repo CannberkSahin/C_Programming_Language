@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615806889 source:c:\users\canberk\desktop\setlocale_function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
