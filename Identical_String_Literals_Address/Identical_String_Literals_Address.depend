@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615899999 source:c:\users\canberk\desktop\identical_string_literals_address\main.c
+	<stdio.h>
+	<stdlib.h>
+
