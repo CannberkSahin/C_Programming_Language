@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615966224 source:c:\users\canberk\desktop\char_pointer_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
