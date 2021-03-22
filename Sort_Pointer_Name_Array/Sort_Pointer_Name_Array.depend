@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616397382 source:c:\users\canberk\desktop\sort_pointer_name_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
