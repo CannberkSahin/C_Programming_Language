@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616752284 source:c:\users\canberk\desktop\pointer_to_pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+
