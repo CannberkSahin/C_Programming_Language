@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616839632 source:c:\users\canberk\desktop\pointer_to_pointer(interview)\main.c
+	<stdio.h>
+	<stdlib.h>
+
