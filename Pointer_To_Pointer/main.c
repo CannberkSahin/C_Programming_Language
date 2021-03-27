@@ -22,4 +22,8 @@ int main()
     *p = &y;  //ptr = address of variable y (ptr = &y)
     ++**p;
     printf("y = %d\n",y);
+
+    //Printed sizeof value of the ptr and p variable
+    printf("\nsizeof(ptr) = %zu\n", sizeof(ptr));
+    printf("sizeof(p)   = %zu\n", sizeof(p));
 }
