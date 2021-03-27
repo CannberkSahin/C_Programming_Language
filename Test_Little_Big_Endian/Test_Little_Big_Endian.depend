@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616887822 source:c:\users\canberk\desktop\test_little_big_endian\main.c
+	<stdio.h>
+	<stdlib.h>
+
