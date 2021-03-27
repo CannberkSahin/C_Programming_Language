@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616842616 source:c:\users\canberk\desktop\address_swap_function\main.c
+	<stdio.h>
+	<stdlib.h>
+
