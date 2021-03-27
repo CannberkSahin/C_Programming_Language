@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1615029087 source:c:\users\canberk\desktop\print_names_function\mutility.c
+	"mutility.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1615028993 c:\users\canberk\desktop\print_names_function\mutility.h
+	<stddef.h>
+
