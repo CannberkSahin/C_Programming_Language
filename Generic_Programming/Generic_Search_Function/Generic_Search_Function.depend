@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1617385563 source:c:\users\canberk\desktop\generic_programming\generic_search_function\mutility.c
+	"mutility.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1617385523 c:\users\canberk\desktop\generic_programming\generic_search_function\mutility.h
+	<stddef.h>
+
+1617388555 source:c:\users\canberk\desktop\generic_programming\generic_search_function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mutility.h"
+
